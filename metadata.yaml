@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '4454'
     url: http://www.gutenberg.org/2009/agents/4454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20584#You-Should-Worry-Says-John-Henry
 gutenberg_issued: '2007-02-15'
 gutenberg_type: Text
 identifiers:
